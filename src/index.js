@@ -38,5 +38,6 @@ async function generate(params = {}) {
 
   return results
 }
-
+// this will be exported.
+console.log('module.exports = generate complted!')
 module.exports = generate

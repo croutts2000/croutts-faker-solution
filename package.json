@@ -1,6 +1,6 @@
 {
   "name": "croutts-faker-solution",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Generates fake data using Faker Random User API.",
   "main": "src/index.js",
   "scripts": {
@@ -29,6 +29,6 @@
   "homepage": "https://github.com/croutts2000/croutts-faker-solution#readme",
   "dependencies": {
     "axios": "^1.6.7",
-    "croutts-faker-solution": "1.0.0"
+    "croutts-faker-solution": "1.0.2"
   }
 }
